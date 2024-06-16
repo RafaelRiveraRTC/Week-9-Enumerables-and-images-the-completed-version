@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 9 Enumerables and images", "Week 9 Enumerables and images.csproj", "{02D5C89E-7E5F-4BB5-9C08-6A80EBA83866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D5C89E-7E5F-4BB5-9C08-6A80EBA83866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D5C89E-7E5F-4BB5-9C08-6A80EBA83866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D5C89E-7E5F-4BB5-9C08-6A80EBA83866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D5C89E-7E5F-4BB5-9C08-6A80EBA83866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6457712-2947-46EB-894B-4A73E8DE3F89}
+	EndGlobalSection
+EndGlobal
